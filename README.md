@@ -28,13 +28,11 @@
 |                   | - Manajemen Akun Seniman                  |
 |                   | - Melihat Akun User                       |
 |                   | - Melihat Riwayat Transaksi               |
-|-------------------|-------------------------------------------|
 | Seniman           | - Melihat Akun Pribadi                    |
 |                   | - Manajemen Data Lukisan                  |
 |                   | - Manajemen Data Patung                   |
 |                   | - Manajemen Data Ukir                     |
 |                   | - Melihat Riwayat Transaksi               |
-|-------------------|-------------------------------------------|
 | User              | - Melihat Akun Pribadi                    |
 |                   | - Melihat Data Lukisan, Patung, & Ukir    |
 |                   | - Membuat Pesanan Lukisan, Patung, & Ukir |
