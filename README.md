@@ -27,7 +27,7 @@
 | Admin             | - Melihat Akun Pribadi                    |
 |                   | - Manajemen Akun Seniman                  |
 |                   | - Melihat Akun User                       |
-|                   | - Melihat Riwayat Transaksi               |
+|                   | - Melihat Statistik Penjualan             |
 | Seniman           | - Melihat Akun Pribadi                    |
 |                   | - Manajemen Data Lukisan                  |
 |                   | - Manajemen Data Patung                   |
