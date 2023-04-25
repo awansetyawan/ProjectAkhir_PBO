@@ -3,7 +3,7 @@
   <h3> >> Tempat Kreasi Dalam Seni << </h4>
   <h4> >> Kelompok 3 << </h4>
 </div>
-<br><br>
+<br>
 
 ## Tentang Projek
 | Judul             | Sistem Manajemen Galeri Seni        |
@@ -13,18 +13,15 @@
 | Angkatan          | Semester 4 - 2023                   |
 
 ## Anggota
-|---------------------|-----------------------|
 | NIM                 | NAMA                  |
 |---------------------|-----------------------|
 | 2109106002          | Alif Maulana Setyawan |
 | 2109106006          | Kania Putri Ananda    |
 | 2109106012          | Nurmedina Maulidiah   |
 | 2109106025          | Rismayanti            |
-|---------------------|-----------------------|
 
 
 ## Sistem
-|-------------------|-------------------------------------------|
 | Aktor             | Aktifitas                                 |
 |-------------------|-------------------------------------------|
 | Admin             | - Melihat Akun Pribadi                    |
@@ -42,4 +39,3 @@
 |                   | - Melihat Data Lukisan, Patung, & Ukir    |
 |                   | - Membuat Pesanan Lukisan, Patung, & Ukir |
 |                   | - Melihat Riwayat Transaksi               |
-|-------------------|-------------------------------------------|
