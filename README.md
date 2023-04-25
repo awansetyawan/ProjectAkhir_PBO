@@ -1,17 +1,16 @@
 <div align="center">
   <h1>Galeri Seni</h1>
-  <h4>Tempat Kreasi Dalam Seni</h4>
+  <h3> >> Tempat Kreasi Dalam Seni << </h4>
+  <h4> >> Kelompok 3 << </h4>
 </div>
 <br><br>
 
 ## Tentang Projek
-|-------------------|-------------------------------------|
 | Judul             | Sistem Manajemen Galeri Seni        |
 |-------------------|-------------------------------------|
 | Tema              | Pihak ke 3 Sebagai Tempat Kreasi    |
 | Matkul            | Pemrograman Berorientasi Objek      |
 | Angkatan          | Semester 4 - 2023                   |
-|-------------------|-------------------------------------|
 
 ## Anggota
 |---------------------|-----------------------|
